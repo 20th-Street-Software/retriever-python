@@ -39,7 +39,7 @@ Homepage = "https://github.com/20th-Street-Software/retriever-python"
 Repository = "https://github.com/20th-Street-Software/retriever-python"
 
 [project.optional-dependencies]
-aiohttp = ["aiohttp", "httpx_aiohttp>=0.1.8"]
+aiohttp = ["aiohttp", "httpx_aiohttp>=0.1.9"]
 
 [tool.rye]
 managed = true
